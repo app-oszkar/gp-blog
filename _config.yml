@@ -31,7 +31,7 @@ github_username: app-oszkar
 permalink: /:collection/:year-:month-:day-:title:output_ext
 show_excerpts: true
 
-staticman_url: https://api-kiwichat.herokuapp.com/v3/entry/github/app-oszkar/gp-blog/main/comments
+staticman_url: https://staticman-one.vercel.app/v3/entry/github/app-oszkar/gp-blog/main/comments
 
 # Build settings
 theme: minima
