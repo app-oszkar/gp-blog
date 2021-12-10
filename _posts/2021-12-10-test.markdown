@@ -6,7 +6,7 @@ categories: jekyll test
 feature_image: feature-image.jpg
 ---
 
-Test.
+testing
 
 
 ## Structure your posts
